@@ -1,4 +1,4 @@
-# Hand Gesture Recognition
+# Hand Gesture Recognition V1
 
 A real-time computer vision project that detects and recognizes hand gestures using a webcam.
 
